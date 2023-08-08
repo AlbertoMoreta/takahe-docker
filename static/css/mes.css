@@ -3,17 +3,17 @@
 :root {
     --color-highlight: #449c8c;
 
-    --color-bg-main: #00cc00;
-    --color-bg-menu: #00cc00;
-    --color-bg-box: #00cc00;
+    --color-bg-main: #7E9B11;
+    --color-bg-menu: #5F7411;
+    --color-bg-box: #6C8412;
     --color-bg-error: rgb(87, 32, 32);
     --color-delete: #8b2821;
     --color-header-menu: rgba(255, 255, 255, 0.8);
     --color-main-shadow: rgba(0, 0, 0, 0.6);
     --size-main-shadow: 50px;
 
-    --color-text-duller: #5f6983;
-    --color-text-dull: #99a;
+    --color-text-duller: #292D39;
+    --color-text-dull: #D7D7DD;
     --color-text-main: #fff;
     --color-text-link: var(--color-highlight);
     --color-text-in-highlight: var(--color-text-main);
